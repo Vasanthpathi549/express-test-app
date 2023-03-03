@@ -1,0 +1,17 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "Learning Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\u001b[Z\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Chttps://github.com/Vasanthpathi549/express-test-app.git\u001b[B\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D"
+  ],
+  "author": "Vasanth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
